@@ -1,0 +1,15 @@
+flask
+flask-cors
+python-docx
+beautifulsoup4
+requests
+python-dotenv
+groq
+PyPDF2
+openai
+google-generativeai
+huggingface_hub
+gunicorn
+grpcio
+protobuf
+
